@@ -1,0 +1,70 @@
+table{
+    width: 100%;  
+}
+
+
+tr{
+    font-size: 40;
+}
+
+
+td{
+    font-size: 25;
+    text-align: center;
+}
+
+
+#soccer{
+    text-align: center;
+    font-size: 100;   
+}
+
+
+p{
+    font-size: 20;
+    text-align: left;
+}
+
+
+#NavBar{
+    font-size: 30;
+    vertical-align: top;
+}
+
+
+#title{
+    font-size: 60;
+}
+
+ul, li{
+    font-size: 25;
+    text-align: left;
+    margin: 10px;
+    font-family: monospace;
+}
+
+h1{
+    font-size: 30;
+    
+}
+
+table, th{
+    border: 5px darkgreen;
+    
+}
+
+body{
+    background-color: darkslategray;
+    color: darkgrey;
+    
+}
+
+*{
+    font-family: fantasy;
+    
+}
+
+p{
+    font-family: monospace;
+    
+}
